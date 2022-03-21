@@ -1,4 +1,4 @@
-let formu = document.getElementById("cotizacion")
+const formulario = document.getElementById("cotizacion")
 var precio = []
 const div__creado = document.querySelector("section__cont")
 
